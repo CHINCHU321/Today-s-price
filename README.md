@@ -26,9 +26,10 @@ Step 5: Create the Scrapper
 
 visit Google “what is my user agent”, copy your user agent and assign it to variable headers.
 
-step 6:send Push notification
+step 6: Send Push notification
 
 Visit https://notify.run/ and create a new Channel, then subscribe to this channel, and bookmark that channel URL, share it to your mobile and subscribe via any android browser(if you want push notification on mobile also)
-step 7:run
+
+step 7: Run
 
 node priceTracker.js
