@@ -17,4 +17,4 @@ Run this command to Install Cheerio (a library to scrape information from web pa
 
 3: basic information
 
-Before we create a function to scrap details from the page let us visit a Flipkart product page like this one (https://www.flipkart.com/milton-executive-lunch-3-containers-box/p/itmf3whyhbgey4uw ) and find the elements that have the name and the price of the product. We will need the element’s class name to be able to find the elements when we extract the data.
+Before we create a function to scrap details from the page let us visit a Flipkart product page like this one (https://www.flipkart.com/apple-2020-macbook-air-m1-8-gb-256-gb-ssd-mac-os-big-sur-mgn63hn-a/p/itmde54f026889ce) and find the elements that have the name and the price of the product. We will need the element’s class name to be able to find the elements when we extract the data.
